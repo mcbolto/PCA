@@ -1,0 +1,9 @@
+Review Palmetto's User Guide if you are unfamiliar with Palmetto before continuing.
+http://citi.clemson.edu/palmetto/pages/userguide.html
+
+To compile on palmetto: 
+	# module add gcc/4.4 mpich2/1.4 fftw/3.2.2-double cuda-toolkit/5.0.35
+	# make
+	(Updates to palmetto will regularly break this.  See the module section of the Palmetto user guide)
+To run on palmetto:
+	# 
